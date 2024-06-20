@@ -6,4 +6,4 @@ Python 3.12.4
 OS Libraries
 
 This alert pop up when detecting malicious injection to your application<br>
-https://i.imghippo.com/files/kFil21718870319.png
+<img src="https://i.imghippo.com/files/kFil21718870319.png">
